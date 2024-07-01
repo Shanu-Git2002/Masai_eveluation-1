@@ -1,7 +1,7 @@
 ## Objective
-<div>Shopping web page</div>
+## Shopping web page</div>
 
-## Roadmap
+## Navbar and Banner section
 <div><img src="https://github.com/Shanu-Git2002/Masai_eveluation-1/blob/main/assets/Screenshot%20(893).png" width="400" height="230px"> </div>
 
 ## Features
