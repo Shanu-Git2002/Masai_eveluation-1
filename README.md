@@ -1,7 +1,10 @@
 ## Objective
 ## Shopping web page</div>
 
-## Navbar and Banner section
+## Navbar and Banner Section
+<div><img src="https://github.com/Shanu-Git2002/Masai_eveluation-1/blob/main/assets/Screenshot%20(893).png" width="400" height="230px"> </div>
+
+## Navbar and Banner Section
 <div><img src="https://github.com/Shanu-Git2002/Masai_eveluation-1/blob/main/assets/Screenshot%20(893).png" width="400" height="230px"> </div>
 
 ## Features
