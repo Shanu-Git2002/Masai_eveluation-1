@@ -18,4 +18,4 @@
 
 
 ## Deploy Link Here
-<div href= "https://profound-basbousa-b16987.netlify.app/" target= "_new page" alt="Hey👶">Click Here</div>
+<a href= "https://profound-basbousa-b16987.netlify.app/" target= "blank" alt="Hey👶">Click Here </a>
